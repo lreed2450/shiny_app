@@ -1,0 +1,1 @@
+This project deploys a web application using Shiny, Python, and zillow data. It is able to display accurate and interactive information on median home prices, home inventory, and new listings. You can see the web application deployed here: https://lexireedshinyapp.shinyapps.io/shiny_app/
